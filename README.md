@@ -1,10 +1,10 @@
-- 👋 Hi, I’m  Adish 
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning mern stack
-- 💞️ I’m looking to collaborate on mern stack
-- 📫 reach me at adishkerkar@gmail.com or https://www.linkedin.com/in/adish-kerkar-568482223
-- My website -> adishportfolio.netlify.app
-<!---
-Adish90k/Adish90k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  Hi, I'm Adish Kerkar
+
+  Forward Deployed Engineer at SAP Labs India, specializing in building production-grade
+  multi-agent AI systems, ML classification services, and intelligent forecasting pipelines for
+  enterprise customers.
+
+  Currently focused on multi-agent orchestration, inference optimization, knowledge graphs, and 
+  retrieval-augmented generation.
+
+  adishkerkar@gmail.com · LinkedIn
