@@ -1,10 +1,7 @@
-  Hi, I'm Adish Kerkar
+Hi, I'm Adish Kerkar.
 
-  Forward Deployed Engineer at SAP Labs India, specializing in building production-grade
-  multi-agent AI systems, ML classification services, and intelligent forecasting pipelines for
-  enterprise customers.
+I'm a **Forward Deployed Engineer at SAP Labs India**, focused on designing and building production-grade AI systems, including multi-agent architectures, machine learning classification services, and intelligent forecasting pipelines for enterprise applications.
 
-  Currently focused on multi-agent orchestration, inference optimization, knowledge graphs, and 
-  retrieval-augmented generation.
+I'm particularly interested in **LLM inference optimization, AI agent architectures, and knowledge graphs and ontologies** — exploring ways to make AI systems more efficient, scalable, and intelligent.
 
-  adishkerkar@gmail.com · LinkedIn
+adishkerkar@gmail.com · LinkedIn
